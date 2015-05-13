@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BE0D52A6-008A-4C53-9BBD-47CDA41C3C99</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Beacons_Tutorial_iOS7</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ABC2613F-4E12-4D7A-9C17-0B425259B4FD</key>
+		<string>https://bitbucket.org/oxdalton/ios_tutorials.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Beacons_Tutorial_iOS7/Beacons_Tutorial_iOS7.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ABC2613F-4E12-4D7A-9C17-0B425259B4FD</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/oxdalton/ios_tutorials.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ABC2613F-4E12-4D7A-9C17-0B425259B4FD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ABC2613F-4E12-4D7A-9C17-0B425259B4FD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TUTORIALS</string>
+		</dict>
+	</array>
+</dict>
+</plist>

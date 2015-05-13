@@ -1,0 +1,84 @@
+{
+    "comment":"Test beacons file",
+    "beacons": [
+               
+                {
+                "comment":"Test beacon 1",
+                "UUID":"b9407f30-f5f8-466e-Aff9-25556b57fe6d",
+                "major":12254,
+                "minor":42356,
+                "actions": [
+
+                           {
+                                "id":1,
+                                "meters":6,
+                                "entryAction":"ActivateArea",
+                                "exitAction":"DeactivateArea",
+                                "entryObject":""
+                           },
+                           {
+                                "id":3,
+                                "meters":3,
+                                "entryAction":"ShowURL",
+                                "exitAction":"HideURL",
+                                "entryObject":""
+                           }
+                           ]
+                
+                
+                
+                
+                },
+                
+                {
+                "comment":"Test beacon 1",
+                "UUID":"8492e75f-4fd6-469d-b132-043fe94921d8",
+                "major":7847,
+                "minor":8855,
+                "actions": [
+                            
+                            {
+                            "id":1,
+                            "meters":6,
+                            "entryAction":"ActivateArea",
+                            "exitAction":"DeactivateArea",
+                            "entryObject":""
+                            },
+                            {
+                            "id":3,
+                            "meters":3,
+                            "entryAction":"ShowPicture",
+                            "exitAction":"HidePicture",
+                            "entryObject":""
+                            }
+                            ]
+                
+                
+                
+                
+                }
+
+                
+                
+                
+                
+                
+               
+                
+                
+                
+                
+                
+
+                
+               
+
+                
+               
+                
+              
+               
+                
+                
+                ]
+}
