@@ -45,8 +45,11 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
 	
     [[MMBeaconManager sharedManager] setDelegate: self];
+    
+    
 }
 
 #pragma mark -
@@ -66,9 +69,32 @@
 {
     debugInfoLabel.text = beacons.description;
     tv1.textLabel.text = beacons.description;
+    
+    
  
    
 }
+
+/*- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
+{
+   
+    return [self.beaconinfo count];
+
+}
+
+-(UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
+{
+    NSString *SimpleIdentifier = @"SimpleIdentifier";
+    
+    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:SimpleIdentifier];
+    if (cell == nil){
+        cell = [[UITableViewCell alloc ] initWithStyle: UITableViewCellStyleDefault reuseIdentifier:SimpleIdentifier];
+    }
+    
+    cell.textLabel.text = self.beaconinfo[indexPath.row];
+    return cell;
+    
+}*/
 
 #pragma mark -
 #pragma mark Actions Handling

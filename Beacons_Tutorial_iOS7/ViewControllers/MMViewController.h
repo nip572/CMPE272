@@ -8,9 +8,10 @@
 #import <UIKit/UIKit.h>
 #import "MMBeaconManager.h"
 
-@interface MMViewController : UIViewController <MMBeaconManagerDelegate>
+@interface MMViewController : UIViewController <MMBeaconManagerDelegate >
 
 @property (nonatomic, weak) IBOutlet UILabel *debugInfoLabel;
+
 
 
 
