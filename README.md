@@ -16,4 +16,10 @@ Requires xcode 6 and above
 5)Build and run. Note to run an ios app on physical device one must have a active apple developer's account or shoud have a jailbroken iphone.
 6)After the code has been signed and the app has been installed on the physical device we are good to go. Bring the phone in the region of an iBeacon(estimotes only), and we would see context aware offers on the phone itself.
 
+#Dropbox link to .ipa file.
+https://www.dropbox.com/s/rkwvhc7t3kkrlga/Beacons_Tutorial_iOS7.ipa?dl=0
+
+Incase someone wants to test this app on a physical device just email me the UDID of the iphone at nipun.ahuja572@gmail.com and then this .ipa file would be good to installed on a real physical device. 
+
+
 #We Guys are coming up with a full tutorial on how to make an Iphone app context aware. Link would soon be posted.
