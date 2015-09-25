@@ -1,6 +1,10 @@
 # CMPE272
 
-Group 10 CMPE 272 Spring 2015 Nipun Ahuja, Arpit Patel, Chhavi Gupta.
+By Group #10
+Chhavi Gupta
+Nipun Ahuja
+Arpit Patel
+
 # Requirements
 Requires iOS 7 & above.
 Require iphone 4s and above
